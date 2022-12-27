@@ -1,0 +1,6 @@
+CREATE TABLE IMAGE1
+             (id STRING PRIMARY KEY     NOT NULL,
+             name           TEXT    NOT NULL,
+             photo          BLOB,
+             tags           TEXT
+             )
